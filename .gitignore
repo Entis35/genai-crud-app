@@ -1,0 +1,3 @@
+venv/
+.env_template
+.DS_store
